@@ -24,6 +24,7 @@
 + 📖 建立有影响力的技术品牌
 + 🤝 为网络技术社区做出贡献
 
+
 ---
 
 ## 💡 Philosophy · 理念
@@ -46,24 +47,9 @@
 
 ---
 
-## 📜 License
-This project is for personal learning and knowledge sharing.
-
-本项目用于个人学习和知识分享。
-
-
 > _"每一个专家都曾经是初学者。"_
 >
 > _"Every expert was once a beginner."_
 >
 
 ---
-
-### Netcraft Lab · 网络工坊
-**Build Networks. Build Knowledge. Build Yourself.**
-
-**构建网络 · 构建知识 · 构建自己**
-
----
-
-**加油！未来的CCIE！** 💪🏆
