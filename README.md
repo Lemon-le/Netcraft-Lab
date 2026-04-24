@@ -2,7 +2,7 @@
 **构建 · 学习 · 分享 · 成长**
 
 
-## 🌟 What is Netcraft Lab?
+### 🌟 What is Netcraft Lab?
 **Netcraft Lab · 网络工坊** 不只是一个学习项目，它是一个**网络工程师的成长实验室**。
 
 在这里，我将：
@@ -12,31 +12,35 @@
 + ✍️ **输出** - 将所学转化为可分享的知识
 + 🚀 **成长** - 从新手走向网络专家
 
-> _"Talk is cheap. Show me the lab."_
->
-> _"空谈误事，实验为证。"_
->
+### 📋 目录
 
----
 
-## 🎯 Vision · 愿景
+### 🧪学习资料
+```plain
+⭐⭐⭐⭐⭐ 必读核心
+├── OCG CCNA Vol.1 & Vol.2
+├── OCG ENCOR 350-401
+├── Jeremy's IT Lab Notes
+└── 101 Labs CCNA
+
+⭐⭐⭐⭐ 强烈推荐
+├── 31 Days 考前冲刺系列
+├── Neil Anderson Lab Guide
+├── IP Subnetting 专项
+└── Network Warrior
+
+⭐⭐⭐ 补充参考 (11本)
+└── 其他实验手册、题库等
+```
+
+## 🎯 推荐学习路线
+
+
+
+### 🎯 Vision · 愿景
 + 🏆 成为网络技术领域的专家
 + 📖 建立有影响力的技术品牌
 + 🤝 为网络技术社区做出贡献
-
-
----
-
-## 💡 Philosophy · 理念
-
-| 理念 | 说明 |
-| :---: | --- |
-| 🔬 **实践第一** | Practice First |
-| 🧠 **深度理解** | Deep Understanding |
-| 🔄 **系统思维** | Systematic Thinking |
-| ✍️ **持续输出** | Continuous Output |
-
----
 
 
 ## 🤝 Connect · 联系
