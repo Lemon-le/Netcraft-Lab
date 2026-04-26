@@ -51,7 +51,7 @@
 ---
 
 🤝 **联系方式 Connect**
-- 💼 公众号: **Netcraft Lab** （关注公众号后可发送加群）  
+- 💼 公众号: **Netcraft-Lab** （关注公众号后可发送加群）  
 - 🐙 GitHub: [https://github.com/Lemon-le](https://github.com/Lemon-le)
 
 ---
